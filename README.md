@@ -1,5 +1,2 @@
-## jenkins-docker-test
+## Jenkins-docker-test
 Continuous Integration Using Docker
-
-
-
